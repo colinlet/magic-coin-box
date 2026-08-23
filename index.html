@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MagicCoinBox 奇妙金币盒</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; text-align: center; padding: 50px 20px; background-color: #f9f9f9; color: #333; }
+        h1 { color: #FF9800; font-size: 2.5rem; margin-bottom: 10px; }
+        p.subtitle { color: #666; font-size: 1.1rem; margin-bottom: 40px; }
+        
+        .container { max-width: 800px; margin: 0 auto; display: flex; flex-wrap: wrap; gap: 40px; justify-content: center; }
+        
+        .lang-section { background: white; padding: 30px; border-radius: 16px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); flex: 1; min-width: 300px; }
+        .lang-section h2 { margin-top: 0; color: #444; border-bottom: 2px solid #eee; padding-bottom: 15px; margin-bottom: 25px; }
+        
+        .btn-group { display: flex; flex-direction: column; gap: 15px; align-items: center; }
+        .btn { padding: 15px 30px; text-decoration: none; color: white; border-radius: 50px; font-size: 18px; width: 80%; font-weight: bold; transition: transform 0.2s, box-shadow 0.2s; box-sizing: border-box; }
+        .btn:hover { transform: translateY(-3px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); }
+        
+        .btn-rewards { background-color: #4CAF50; }
+        .btn-mystery { background-color: #E91E63; }
+        
+        .footer { margin-top: 60px; color: #999; font-size: 0.9rem; }
+        .footer a { color: #FF9800; text-decoration: none; }
+        .footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>👑 MagicCoinBox 奇妙金币盒</h1>
+    <p class="subtitle">A habit-forming tool for kids based on Token Economy.<br>基于代币经济的儿童习惯养成工具。</p>
+
+    <div class="container">
+        <!-- 英文版入口 -->
+        <div class="lang-section">
+            <h2>🇬🇧 English Version</h2>
+            <div class="btn-group">
+                <a href="rewards_system_en.html" class="btn btn-rewards">📋 Rewards Chart</a>
+                <a href="mystery_box_en.html" class="btn btn-mystery">🎁 Mystery Box</a>
+            </div>
+        </div>
+
+        <!-- 中文版入口 -->
+        <div class="lang-section">
+            <h2>🇨🇳 中文版</h2>
+            <div class="btn-group">
+                <a href="rewards_system.html" class="btn btn-rewards">📋 任务奖励表</a>
+                <a href="mystery_box.html" class="btn btn-mystery">🎁 周末出游盲盒</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Open Source Project on <a href="https://github.com/tomlee0219/magic-coin-box" target="_blank">GitHub</a></p>
+    </div>
+</body>
+</html>
