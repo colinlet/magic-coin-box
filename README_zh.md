@@ -4,6 +4,14 @@
 
 **一个基于行为心理学的动态儿童代币制（Token Economy）开源方案**
 
+🚀 **[在线体验 (Try it Live)](https://colinlet.github.io/magic-coin-box/)**
+
+<p align="center">
+  <img src="./assets/qrcode.png" alt="扫码手机体验" width="200">
+  <br>
+  <sub>📱 扫码在手机或 iPad 上直接使用</sub>
+</p>
+
 ---
 
 ## 📖 项目简介

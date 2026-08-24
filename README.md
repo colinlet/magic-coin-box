@@ -4,6 +4,14 @@
 
 **An Open-Source Token Economy System for Geeky Parents Based on Behavioral Psychology**
 
+🚀 **[Try it Live!](https://colinlet.github.io/magic-coin-box/)**
+
+<p align="center">
+  <img src="./assets/qrcode.png" alt="Scan to try on mobile" width="200">
+  <br>
+  <sub>📱 Scan to use directly on your phone or iPad</sub>
+</p>
+
 ---
 
 ## 📖 Introduction
