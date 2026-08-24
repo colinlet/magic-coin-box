@@ -4,6 +4,15 @@
 
 **一个基于行为心理学的动态儿童代币制（Token Economy）开源方案**
 
+<div align="center">
+  <a href="https://afdian.com/a/colinlet" target="_blank">
+    <img src="https://img.shields.io/badge/💖_赞助-爱发电-946ce6?style=for-the-badge&logo=afdian&logoColor=white" alt="爱发电赞助" />
+  </a>
+  <a href="https://ko-fi.com/colinlet" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Sponsor" />
+  </a>
+</div>
+
 🚀 **[在线体验 (Try it Live)](https://colinlet.github.io/magic-coin-box/)**
 
 <p align="center">
